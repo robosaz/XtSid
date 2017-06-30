@@ -1,4 +1,4 @@
-# **DBTeamV2** #
+# **XtSid** #
 
 [![Library](https://img.shields.io/badge/TDLib-beta-brightgreen.svg)](https://core.telegram.org/tdlib)
 [![Telegram-cli](https://img.shields.io/badge/TDCli-Bitbucket-green.svg)](https://bitbucket.org/vysheng/tdcli)
@@ -12,7 +12,7 @@
 DBTeamV2 is a a powerful administration userbot that uses [Telegram-Cli](https://valtman.name/telegram-cli).  
 It is programmed in [Lua](https://www.lua.org/) and uses the rapid [Redis](https://redis.io/) database.
 
-The difference among the old [DBTeamV1](https://github.com/Josepdal/DBTeamV1) and [DBTeamV2](https://github.com/Josepdal/DBTeamV2) is that this one uses a much newer *Tg-Cli* with new stuff and also the bot has improved in usability, stability and has new functions.
+The difference among the old [DBTeamV1](https://github.com/Josepdal/DBTeamV1) and [DBTeamV2](https://github.com/robosaz/XtSid) is that this one uses a much newer *Tg-Cli* with new stuff and also the bot has improved in usability, stability and has new functions.
 
 # Summary
 
